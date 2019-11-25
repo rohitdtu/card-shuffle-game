@@ -22,4 +22,4 @@ To run the test cases - **npm run test:watch**
 
 ## Improvements
 **Resuability of Left and Righ Deck components**<br/>
-As per the current implementation we are using different components for Left and Right Decks . We could have reused a single component instead of using different components  
+Due to time constraint we are using different components for Left and Right Decks . We could have reused a single component instead of using different components  
