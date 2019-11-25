@@ -16,5 +16,5 @@ To run the test cases - **npm run test:watch**
 1. Card match functionality to match cards between decks.
 2. Shuffle game and high score display.
 
-## Imporvements
+## Improvements
 Left and right deck reusability component.
