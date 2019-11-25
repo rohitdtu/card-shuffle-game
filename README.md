@@ -11,3 +11,10 @@ Once all the cards are matched from the 2 decks. You can start the game using th
 To start the application - **npm start**  <br/>
 To build the code - **npm run build** <br/>
 To run the test cases - **npm run test:watch**
+
+## Functionalities not working
+1. Card match functionality to match cards between decks.
+2. Shuffle game and high score display.
+
+## Imporvements
+Left and right deck reusability component.
