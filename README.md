@@ -7,7 +7,7 @@ and if both the flipped cards (from same deck) have same numbers then both the c
 Once all the cards are matched from the 2 decks. You can start the game using the play button
 
 ## COMMANDS:
-
+Use **npm install** to download all the dependencies.
 To start the application - **npm start**  <br/>
 To build the code - **npm run build** <br/>
 To run the test cases - **npm run test:watch**
