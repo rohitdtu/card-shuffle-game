@@ -14,10 +14,10 @@ To build the code - **npm run build** <br/>
 To run the test cases - **npm run test:watch**
 
 ## Functionalities not working
-1. **Card match functionality to match cards between decks.**
-    As per the current implemenation a user can choose 2 cards from each deck.  <br/>
+1. **Card match functionality to match cards between decks.** <br/>
+    As per the current implemenation a user can choose 2 cards from each deck instead of one.  <br/>
 2. **Shuffle game and high score display.**
 
 ## Improvements
-**Resuability of Left and Righ DEck components**<br/>
+**Resuability of Left and Righ Deck components**<br/>
 As per the current implementation we are using different components for Left and Right Decks . We could have reused a single component instead of using different components  
