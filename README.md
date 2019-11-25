@@ -16,7 +16,7 @@ To run the test cases - **npm run test:watch**
 ## Functionalities not working
 1. **Card match functionality to match cards between decks.** <br/>
     As per the current implemenation a user can choose 2 cards from each deck instead of one.  <br/>
-2. **Shuffle game and high score display.** 
+2. **Shuffle game and high score display.** <br/>
     Shuffle cards api is not used due to time constraint but written a method to shuffle the cards <br/>
     
 
