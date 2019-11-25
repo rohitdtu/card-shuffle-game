@@ -18,4 +18,4 @@ To run the test cases - **npm run test:watch**
 2. Shuffle game and high score display.
 
 ## Improvements
-Left and right deck reusability component.
+Reusability of Left and right deck component.
